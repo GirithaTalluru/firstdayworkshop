@@ -10,4 +10,7 @@
 **bold fontstyle**
 
 ***bolditalic fontstyle***
-[text](https://www.gmail.com)
+
+[Gmail](https://www.gmail.com)
+
+![Google](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAUoHFD2lDcQrY8CBNtPmwYpMfItAu1rn15g&usqp=CAU)
