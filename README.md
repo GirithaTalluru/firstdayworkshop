@@ -13,4 +13,4 @@
 
 [Gmail](https://www.gmail.com)
 
-![Google](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAUoHFD2lDcQrY8CBNtPmwYpMfItAu1rn15g&usqp=CAU)
+![Google](https://www.stuartcmchenry.com/wp-content/uploads/2009/04/worldcup.png)
